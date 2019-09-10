@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream.",
+      "id": 1
+    },
+    {
+      "description": "Here's some stream",
+      "title": "Other Stream",
+      "id": 2
+    },
+    {
+      "title": "My stream it is v2",
+      "description": "Nice stream it is",
+      "id": 3
+    },
+    {
+      "title": "Programmatic Navigation v2",
+      "description": "Submit will take you to root page",
+      "id": 4
+    },
+    {
+      "title": "Refactored new Stream v2",
+      "description": "Using reusable form",
+      "id": 5
+    },
+    {
+      "title": "demo stream",
+      "description": "stream",
+      "userId": "107333599618031478887",
+      "id": 6
+    }
+  ]
+}
